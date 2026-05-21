@@ -62,10 +62,8 @@
 
 ## `Featured Projects`
 
-- [**devkatacli**](https://github.com/fern-d3v/devKataCLI) — Terminal-based developer practice routine (📦 Published on npm)
 - [**terminal-portfolio**](https://github.com/fern-d3v/terminal-portfolio) — A terminal-style web portfolio
 - [**tidy-downloads**](https://github.com/fern-d3v/tidy-downloads) — CLI tool to organize your downloads folder
-- [**shadesmar-cli**](https://github.com/fern-d3v/shadesmar-cli) — Command line interface choose your own adventure game
 
 ## `Current Focus`
 
