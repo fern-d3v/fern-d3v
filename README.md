@@ -12,7 +12,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ffyrn_codes)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhyn-hilt)
 [![DEV](https://img.shields.io/badge/-DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ffyrnintheforest)
-[![Website](https://img.shields.io/badge/-f3rn.dev-ca9ee6?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://f3rn.dev/)
+[![Website](https://img.shields.io/badge/-f3rn.dev-ca9ee6?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://ffyrn.dev/)
 
 ## `About Me`
 
@@ -26,6 +26,7 @@
     "Operating Systems",
     "Open Source",
     "Terminal Customization",
+    "CLI tools",
     "Souls Video Games",
     "Fantasy Novels",
     "My Cat BMO"
@@ -40,9 +41,7 @@
 
 ## `Shipped`
 
-**[devkatacli](https://www.npmjs.com/package/devkatacli)** — Terminal-based developer practice routine
-
-![npm](https://img.shields.io/npm/dt/devkatacli?style=flat-square&label=downloads&color=FFB86C)
+> **check back soon!**
 
 **[Dev.to Articles](https://dev.to/fern_d3v)** — Writing about developer tools and CLI development
 
@@ -73,11 +72,12 @@
 
 ```bash
 $ now-playing
->  Studying CS | Published devKataCLI to npm | Learning Python && Rust
+>  Studying CS | writing CLI tools | Learning Go
 ```
 
 ## `Next Languages`
 
+![Go](https://img.shields.io/badge/-Go-FFFFFF?style=flat-square&logo=go&logoColor=85c1dc)
 ![Python](https://img.shields.io/badge/-python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=CE422B)
 ![C++](https://img.shields.io/badge/-C++-FFFFFF?style=flat-square&logo=cplusplus&logoColor=00599C)
