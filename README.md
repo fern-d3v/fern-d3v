@@ -57,8 +57,7 @@
 
 ### `Current`
 
-> check back soon for an update!
-
+![Go](https://img.shields.io/badge/-Go-FFFFFF?style=flat-square&logo=go&logoColor=85c1dc)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## `Featured Projects`
@@ -77,7 +76,6 @@ $ now-playing
 
 ## `Next Languages`
 
-![Go](https://img.shields.io/badge/-Go-FFFFFF?style=flat-square&logo=go&logoColor=85c1dc)
 ![Python](https://img.shields.io/badge/-python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=CE422B)
 ![C++](https://img.shields.io/badge/-C++-FFFFFF?style=flat-square&logo=cplusplus&logoColor=00599C)
