@@ -30,7 +30,7 @@
     "Fantasy Novels",
     "My Cat BMO"
   ],
-  "homepage": "f3rn.dev",
+  "homepage": "ffyrn.dev",
   "repository": {
     "type": "git",
     "url": "https://github.com/ffyrnintheforest"
