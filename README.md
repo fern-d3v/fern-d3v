@@ -9,10 +9,10 @@
 
 ## `Connect With Me`
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ffyrn_codes)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhyn-hilt)
-[![DEV](https://img.shields.io/badge/-DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ffyrnintheforest)
-[![Website](https://img.shields.io/badge/-f3rn.dev-ca9ee6?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://ffyrn.dev/)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ffyrn_codes)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/rhyn-hilt)
+[![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/ffyrnintheforest)
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://ffyrn.dev/)
 
 ## `About Me`
 
@@ -43,27 +43,21 @@
 
 > **check back soon!**
 
-**[Dev.to Articles](https://dev.to/fern_d3v)** — Writing about developer tools and CLI development
-
 ## `Tech Stack`
 
 ### `Previous`
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/-Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=fbf0df)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ### `Current`
 
-![Go](https://img.shields.io/badge/-Go-FFFFFF?style=flat-square&logo=go&logoColor=85c1dc)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=go,git,github,bash,md,)](https://skillicons.dev)
 
 ## `Featured Projects`
 
-- [**terminal-portfolio**](https://github.com/fern-d3v/terminal-portfolio) — A terminal-style web portfolio
-- [**tidy-downloads**](https://github.com/fern-d3v/tidy-downloads) — CLI tool to organize your downloads folder
+- [**runa**](https://github.com/ffyrnintheforest/runa) - A personal library in your terminal
+- [**terminal-portfolio**](https://github.com/ffyrnintheforest/terminal-portfolio) — A terminal-style web portfolio
+- [**tidy-downloads**](https://github.com/ffyrnintheforest/tidy-downloads) — CLI tool to organize your downloads folder
 
 ## `Current Focus`
 
@@ -74,9 +68,7 @@ $ now-playing
 
 ## `Next Languages`
 
-![Python](https://img.shields.io/badge/-python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=CE422B)
-![C++](https://img.shields.io/badge/-C++-FFFFFF?style=flat-square&logo=cplusplus&logoColor=00599C)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java)](https://skillicons.dev)
 
 ---
 
